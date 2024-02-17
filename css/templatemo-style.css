@@ -140,11 +140,11 @@ button:focus { outline: none; }
 	list-style: none; 
 }
 
-.cd-hero-slider li:nth-of-type(1) { background-image: url(../img/tm-bg-1.jpeg); }
-.cd-hero-slider li:nth-of-type(2) { background-image: url(../img/tm-bg-2.jpeg); }
-.cd-hero-slider li:nth-of-type(3) { background-image: url(../img/tm-bg-3.jpeg); }
-.cd-hero-slider li:nth-of-type(4) { background-image: url(../img/tm-bg-4.jpeg); }
-.cd-hero-slider li:nth-of-type(5) { background-image: url(../img/tm-bg-5.jpeg); }
+.cd-hero-slider li:nth-of-type(1) { background-image: url(../img/background1.png); }
+.cd-hero-slider li:nth-of-type(2) { background-image: url(../img/background1.png); }
+.cd-hero-slider li:nth-of-type(3) { background-image: url(../img/background1.png); }
+.cd-hero-slider li:nth-of-type(4) { background-image: url(../img/background1.png); }
+.cd-hero-slider li:nth-of-type(5) { background-image: url(../img/background1.png); }
 .cd-hero-slider li:nth-of-type(6) { background-image: url(../img/tm-bg-6.jpeg); }
 
 /* BLOCZKI TŁO */
@@ -337,7 +337,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	padding: 10px;
 }
 
-.cd-hero-slider .cd-full-width { text-align: left; }
+.cd-hero-slider .cd-full-width { text-align: center; }
 .cd-full-width .container-fluid { margin-top: -80px; }
 
 .tm-2-col-textbox-2 {
